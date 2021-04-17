@@ -1,4 +1,4 @@
-ob('dsl-job1') {
+job('dsl-job1') {
   description('Created by DSL script')
   
   
